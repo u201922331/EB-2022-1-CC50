@@ -35,7 +35,7 @@ Se tienen 2 conjuntos de datos, uno es un archivo de tipo csv que contendrá tod
  - Geometry: Coordenada desde la que fue subido el video.
 
 ## Respecto al archivo de información de las categorías:
- -Kind: Tipo de información.
+ - Kind: Tipo de información.
  - Etag: Link que incluye este tipo de categoría.
  - Id: identificador del tipo de categoría.
  - Snippet: Información respecto de la categoría que contiene lo siguiente:
@@ -43,3 +43,6 @@ Se tienen 2 conjuntos de datos, uno es un archivo de tipo csv que contendrá tod
 	- Title: Título del tipo de categoría.
 	- Assignable: Indica si se puede asignar tal categoría de video.
 
+# Conclusiones
+# Licencia de uso
+Para este trabajo, hemos decidido hacer el uso de la licencia Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)
