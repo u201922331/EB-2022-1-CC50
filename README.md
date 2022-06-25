@@ -45,4 +45,4 @@ Se tienen 2 conjuntos de datos, uno es un archivo de tipo csv que contendrá tod
 
 # Conclusiones
 # Licencia de uso
-Para este trabajo, hemos decidido hacer el uso de la licencia Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)
+Para este trabajo, hemos decidido hacer el uso de la licencia [Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es)
