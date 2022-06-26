@@ -44,5 +44,8 @@ Se tienen 2 conjuntos de datos, uno es un archivo de tipo csv que contendrá tod
 	- Assignable: Indica si se puede asignar tal categoría de video.
 
 # Conclusiones
+ - El análisis de estos datos puede ser beneficioso para la delimitación de categorías de vídeos objetivos a las cuales se les puede tomar como foco de anuncios a fin 	  de generar un mayor alcance.
+ - Se establece que intentar predecir la cantidad de visitas, likes o dislikes no es recomendado, debido a que influyen muchas variables que no están incluidas en     	  nuestros datos, el hecho de pertenecer a una categoría y subir un video no sera el motivo principal del éxito que pueda llegar a tener un video.
+
 # Licencia de uso
 Para este trabajo, hemos decidido hacer el uso de la licencia [Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es)
